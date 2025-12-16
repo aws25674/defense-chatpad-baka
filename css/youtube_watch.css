@@ -1,0 +1,8 @@
+.ytp-fullscreen-grid,
+.ytp-fullscreen-grid-hover-overlay,
+.ytp-fullscreen-grid-buttons-container,
+.ytp-fullscreen-grid-expand-button.ytp-button,
+.ytp-fullscreen-grid-main-content,
+.ytp-fullscreen-grid-stills-container {
+    display: none;
+}
